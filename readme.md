@@ -14,7 +14,7 @@ npm i -g browserify
 Browserify the examples
 
 ```
-browserify mkv-mp4.js -o js/mkv-mp4.browser.js 
+browserify ffmpeg-mp4.js -o js/ffmpeg-mp4.browser.js
 ```
 
 ## Run a static http server

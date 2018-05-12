@@ -4,7 +4,7 @@
   "description": "FFMPEG.js examples",
   "main": "index.js",
   "scripts": {
-    "build": "browserify mkv-mp4.js -o js/mkv-mp4.browser.js",
+    "build": "browserify ffmpeg-mp4.js -o js/ffmpeg-mp4.browser.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
