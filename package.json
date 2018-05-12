@@ -1,0 +1,16 @@
+{
+  "name": "ffmpeg.js-examples",
+  "version": "1.0.0",
+  "description": "FFMPEG.js examples",
+  "main": "index.js",
+  "scripts": {
+    "build": "browserify mkv-mp4.js -o js/mkv-mp4.browser.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ffmpeg.js": "^3.1.9001"
+  }
+}
