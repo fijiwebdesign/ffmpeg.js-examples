@@ -11,6 +11,12 @@ Install browserify
 npm i -g browserify 
 ```
 
+Download ffmpeg.js
+
+```
+npm i
+```
+
 Browserify the examples
 
 ```
